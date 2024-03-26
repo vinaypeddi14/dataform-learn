@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "probable-summer-238718",
+  "defaultLocation": "northamerica-northeast1"
+}
+    
